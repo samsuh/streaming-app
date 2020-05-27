@@ -17,12 +17,6 @@
       "id": 3
     },
     {
-      "title": "fourth stream with userId",
-      "description": "signed in - created stream after action creator refactor",
-      "userId": "113821176666099266737",
-      "id": 4
-    },
-    {
       "title": "stream with redirect",
       "description": "redirected if successful2",
       "id": 5
