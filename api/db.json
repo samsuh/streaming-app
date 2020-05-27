@@ -9,6 +9,29 @@
       "title": "second stream",
       "description": "a different stream",
       "id": 2
+    },
+    {
+      "title": "third stream with userId",
+      "description": "created stream after action creator refactor",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "fourth stream with userId",
+      "description": "signed in - created stream after action creator refactor",
+      "userId": "113821176666099266737",
+      "id": 4
+    },
+    {
+      "title": "stream with redirect",
+      "description": "redirected if successful2",
+      "id": 5
+    },
+    {
+      "title": "StreamForm refactor completed",
+      "description": "using streamform to create2",
+      "userId": "113821176666099266737",
+      "id": 6
     }
   ]
 }
